@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.UserController.Add(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+             "login" : "A4Tech Bloody B188",
+             "password" : "!Pa$$word123@",
+             "firstname" : "Иван",
+             "lastname" : "Иванов",
+             "middlename" : "Иванович"
+             }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(Domain.Models.User)">
+             <summary>
+             Обновление информации о пользователе
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+             "login" : "A4Tech Bloody B188",
+             "password" : "!Pa$$word123@",
+             "firstname" : "Иван",
+             "lastname" : "Иванов",
+             "middlename" : "Иванович"
+             }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+             <summary>
+             Удаление пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+             "login" : "A4Tech Bloody B188",
+             "password" : "!Pa$$word123@",
+             "firstname" : "Иван",
+             "lastname" : "Иванов",
+             "middlename" : "Иванович"
+             }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>
