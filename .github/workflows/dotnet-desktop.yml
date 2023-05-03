@@ -1,23 +1,26 @@
-name: dotnet format
+name: .NET Core Desktop
 
 on:
   push:
-    paths:
-      - "**.cs"
-      - ".editorconfig"
-      
+    branches: "master"
+  pull_request:
+    branches: "master"
+
 jobs:
-  check-format:
+
+  build:
+
+    strategy:
+      matrix:
+        configuration: [Release]
+
     runs-on: windows-latest
-    
+
+    env:
+      Solution_Name: BackendApi.sln
+
     steps:
-      - name: Setup .NET Core
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '6.0.x'
-
-      - name: Install dotnet-format tool
-        run: dotnet tool install -g dotnet-format
-
-      - name: Check out code
-        uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
