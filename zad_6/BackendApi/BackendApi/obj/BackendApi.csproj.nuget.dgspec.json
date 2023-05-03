@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BackendApi\\BackendApi.csproj": {}
+    "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BackendApi\\BackendApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BackendApi\\BackendApi.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BackendApi\\BackendApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BackendApi\\BackendApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BackendApi\\BackendApi.csproj",
         "projectName": "BackendApi",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BackendApi\\BackendApi.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BackendApi\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BackendApi\\BackendApi.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BackendApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -81,21 +85,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,8 +117,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -140,21 +148,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,8 +180,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -211,21 +223,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\ZAD\\zad_5_1-main\\zad_5_1-main\\BackendApi\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -266,7 +282,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

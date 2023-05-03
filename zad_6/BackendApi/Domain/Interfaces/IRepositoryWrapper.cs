@@ -9,7 +9,10 @@ namespace Domain.Interfaces
 {
     public interface IRepositoryWrapper
     {
-        IUserRepository User { get; }
         Task Save();
+        IUserRepository User { get; }
+        IProductRepository Product { get; }
+
+        IFilterRepository Filter { get; }
     }
 }

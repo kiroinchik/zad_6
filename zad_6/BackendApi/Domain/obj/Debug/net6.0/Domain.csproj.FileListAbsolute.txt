@@ -46,3 +46,27 @@ C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_5_1-main\zad_5_1-main\B
 C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_5_1-main\zad_5_1-main\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_5_1-main\zad_5_1-main\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_5_1-main\zad_5_1-main\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\ZAD\zad_6\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (3)\zad_6\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
