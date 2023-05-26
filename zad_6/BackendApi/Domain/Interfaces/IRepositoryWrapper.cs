@@ -12,7 +12,6 @@ namespace Domain.Interfaces
         Task Save();
         IUserRepository User { get; }
         IProductRepository Product { get; }
-
         IFilterRepository Filter { get; }
     }
 }

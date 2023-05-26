@@ -9,6 +9,6 @@ namespace Domain.Interfaces
 {
     public interface IUserRepository : IRepositoryBase<User>
     {
-        
+        public Task<User?> GetByEP(string email, string password);
     }
 }

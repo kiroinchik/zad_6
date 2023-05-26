@@ -64,5 +64,55 @@
              <param name="model">Пользователь</param>
              <returns></returns>
         </member>
+        <member name="M:FirstSaturday.Controllers.FilterController.GetAll">
+            <summary>
+            Получение всех фильтров
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.FilterController.GetById(System.Int32)">
+            <summary>
+            Получение фильтра по id
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.FilterController.Add(BackendApi.Contracts.Filter.CreateFilterRequest)">
+            <summary>
+            Добавление фильтра
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.FilterController.Update(BackendApi.Contracts.Filter.CreateFilterRequest)">
+            <summary>
+            Обновление фильтра
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.FilterController.Delete(System.Int32)">
+            <summary>
+            Удаление фильтра
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.ProductController.GetAll">
+            <summary>
+            Получение всех товаров
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.ProductController.GetById(System.Int32)">
+            <summary>
+            Получение товара по id
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.ProductController.Add(BackendApi.Contracts.Product.CreateProductRequest)">
+            <summary>
+            Добавление товара
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.ProductController.Update(BackendApi.Contracts.Product.CreateProductRequest)">
+            <summary>
+            Обновление товара
+            </summary>
+        </member>
+        <member name="M:FirstSaturday.Controllers.ProductController.Delete(System.Int32)">
+            <summary>
+            Удаление товара
+            </summary>
+        </member>
     </members>
 </doc>

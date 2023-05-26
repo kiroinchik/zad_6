@@ -16,5 +16,14 @@ namespace DataAccess.Repositories
         {
         }
 
+        public async Task<User?> GetByEP(string email, string password)
+        {
+            var result = await base.FindByCondition(ded => ded.Login == email && ded.UPassword == password);
+
+            if (result == null || result.Count == 0) { return null; }
+
+            return result[0];
+        }
+
     }
 }

@@ -1,0 +1,12 @@
+﻿@page "/products-list"
+@inject IProductsService ProductService
+
+<h3>GoodList</h3>
+
+@code {
+    private List<Product> product = new List<Product>();
+
+    protected override async Task OnInitializedAsync(){
+        product = await ProductService.GetAll();
+    }
+}

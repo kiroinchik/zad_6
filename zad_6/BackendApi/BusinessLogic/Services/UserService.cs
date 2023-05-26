@@ -58,5 +58,13 @@ namespace BusinessLogic.Services
             _repositoryWrapper.Save();
         }
 
+
+        public async Task<User> Login(string email, string password)
+        {
+            var user = await
+                _repositoryWrapper.User.GetByEP(email, password);
+
+            return user;
+        }
     }
 }

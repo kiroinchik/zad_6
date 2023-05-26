@@ -11,5 +11,6 @@ namespace Domain.Models
         public string URole { get; set; } = null!;
         public string? UPhNumber { get; set; }
         public string UPassword { get; set; } = null!;
+        public string Login { get; set; } = null!;
     }
 }

@@ -1,0 +1,57 @@
+﻿@page "/login"
+@using Web.Auth;
+@inject IUserService UserService
+@inject IJSRuntime js
+@inject AuthenticationStateProvider authStateProvider
+@inject NavigationManager navManager
+
+<div class="row">
+    <div class="col-lg-4 offset-lg-4 pt-4 pb-4 border">
+        <div class="mb-3 text-center">
+            <h3>Login</h3>
+        </div>
+        <div class="mb-3">
+            <label>Login</Label>
+            <input @bind="model.Email" type="email" class="form-control" placeholder="Login" />
+        </div>
+        <div class="mb-3">
+            <label>Password</Label>
+            <input @bind="model.Password" type="password" class="form-control" placeholder="Password" />
+        </div>
+        <div class="mb-3 d-grid gap-2">
+            <button @onclick="Authenticate" class="btn btn-primary">Login</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    private class Model
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+
+    private Model model = new Model();
+
+    private async Task Authenticate()
+    {
+        var userAccount = await UserService.Login(model.Email, model.Password);
+
+    if (userAccount == null)
+    {
+        await js.InvokeVoidAsync("Alert", "Invalid");
+        return;
+    }
+
+    var customAuthStateProvider = (CustomAuthenticationStateProvider)authStateProvider;
+
+    await customAuthStateProvider.UpdateAuthenticationStateAsync(new UserSession
+    {
+        Id = userAccount.UId.ToString(),
+        Email = userAccount.UPhNumber,
+        FirstName = userAccount.UName,
+        Role = userAccount.UId <= 5?"Administrator":"User"
+    });
+    navManager.NavigateTo("/", true); 
+    } 
+}

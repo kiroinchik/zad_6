@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MimFiQq1i5jgHYlpJxpX97vZU7zgJHhK3fXN92P0HyIC3MAvRzEAsVVW0xXQZjts6rhu6hvQ+yQJlg+pxrl1GA==",
+  "dgSpecHash": "UPML4gLweik0yALQn+yJO2yWtbQ3UWBBotLAhO1pOIiBZ3ruNjvo8PhXwA5EXp5Zw7T7ybE3HxSqCNq5NsGrrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\zad_6\\zad_6\\BackendApi\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

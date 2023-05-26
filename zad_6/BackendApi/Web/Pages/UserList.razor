@@ -1,0 +1,25 @@
+﻿@page "/user-list"
+@attribute [Authorize(Roles = "Administrator")]
+
+@inject IUserService UserService
+
+<h3>UserList</h3>
+<br />
+
+@foreach (var c in users)
+{
+    <h4>UserId: @c.UId</h4>
+    <h4>Name: @c.UName</h4>
+    <h4>Email: @c.Login</h4>
+    <h4>Password: @c.UPassword</h4>
+    <hr />
+}
+
+@code {
+    List<User> users = new List<User>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await UserService.GetAll();
+    }
+}

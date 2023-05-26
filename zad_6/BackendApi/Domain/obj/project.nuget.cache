@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/u5/HL6lcbrqqEZK7eHsJtQQWsIvvqV3kej3VHeUIOY5b8XigXh+QC2PQLW5KS15QTOj0uZun7nU8aw5tg+GLQ==",
+  "dgSpecHash": "IlN4Ol7ADBD1uQfsChPevEStmVlroSV0ckFSUVLoJ4zDqCTHHFknQ3G7xUgCx8pCVhAIHsGP/MOb4m8b1P1gzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\zad_6\\BackendApi\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\zad_6\\zad_6\\BackendApi\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
